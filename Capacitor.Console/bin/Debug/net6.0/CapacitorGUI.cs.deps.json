@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CapacitorGUI.cs/1.0.0": {
+        "dependencies": {
+          "Capacitor.Models": "1.0.0"
+        },
+        "runtime": {
+          "CapacitorGUI.cs.dll": {}
+        }
+      },
+      "Capacitor.Models/1.0.0": {
+        "runtime": {
+          "Capacitor.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapacitorGUI.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Capacitor.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\bin\Debug\net6.0-windows\Capacitor.UI.exe
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\bin\Debug\net6.0-windows\Capacitor.UI.deps.json
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\bin\Debug\net6.0-windows\Capacitor.UI.runtimeconfig.json
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\bin\Debug\net6.0-windows\Capacitor.UI.dll
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\bin\Debug\net6.0-windows\Capacitor.UI.pdb
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\Capacitor.UI.csproj.AssemblyReference.cache
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\Capacitor.UI.Form1.resources
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\Capacitor.UI.csproj.GenerateResource.cache
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\Capacitor.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\Capacitor.UI.AssemblyInfoInputs.cache
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\Capacitor.UI.AssemblyInfo.cs
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\Capacitor.UI.csproj.CoreCompileInputs.cache
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\Capacitor.UI.dll
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\refint\Capacitor.UI.dll
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\Capacitor.UI.pdb
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\Capacitor.UI.genruntimeconfig.cache
+C:\Users\noahr\source\repos\Capacitor\Capacitor.UI\obj\Debug\net6.0-windows\ref\Capacitor.UI.dll

@@ -1,0 +1,12 @@
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\bin\Debug\net6.0\Capacitor.Models.deps.json
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\bin\Debug\net6.0\Capacitor.Models.dll
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\bin\Debug\net6.0\Capacitor.Models.pdb
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\obj\Debug\net6.0\Capacitor.Models.csproj.AssemblyReference.cache
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\obj\Debug\net6.0\Capacitor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\obj\Debug\net6.0\Capacitor.Models.AssemblyInfoInputs.cache
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\obj\Debug\net6.0\Capacitor.Models.AssemblyInfo.cs
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\obj\Debug\net6.0\Capacitor.Models.csproj.CoreCompileInputs.cache
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\obj\Debug\net6.0\Capacitor.Models.dll
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\obj\Debug\net6.0\refint\Capacitor.Models.dll
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\obj\Debug\net6.0\Capacitor.Models.pdb
+C:\Users\noahr\source\repos\Capacitor\Capacitor.Models\obj\Debug\net6.0\ref\Capacitor.Models.dll

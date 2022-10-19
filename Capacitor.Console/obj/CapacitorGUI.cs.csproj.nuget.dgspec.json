@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Console\\CapacitorGUI.cs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Console\\CapacitorGUI.cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Console\\CapacitorGUI.cs.csproj",
+        "projectName": "CapacitorGUI.cs",
+        "projectPath": "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Console\\CapacitorGUI.cs.csproj",
+        "packagesPath": "C:\\Users\\noahr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\noahr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Models\\Capacitor.Models.csproj": {
+                "projectPath": "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Models\\Capacitor.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Models\\Capacitor.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Models\\Capacitor.Models.csproj",
+        "projectName": "Capacitor.Models",
+        "projectPath": "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Models\\Capacitor.Models.csproj",
+        "packagesPath": "C:\\Users\\noahr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\noahr\\source\\repos\\Capacitor\\Capacitor.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\noahr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
